@@ -83,7 +83,7 @@ A comprehensive web-based Student Management System built using **HTML**, **CSS*
 - Works on all devices:
   - ✅ Desktop
   - ✅ Tablet
-  - ✅ Mobile
+  - ✅ Mobile(There are still some issues to be fixed.)
 
 ---
 
